@@ -2,7 +2,11 @@
 
 <div align="center">
 
-![Alt Text](https://github.com/Stilyx/FAQ-according/blob/main/faq-accordion/images/FAQ.gif)
+
+
+
+https://user-images.githubusercontent.com/109632184/196783808-e473ef13-e305-4e5a-b2cf-9d7338c066d0.mp4
+
 
 
  </div>
