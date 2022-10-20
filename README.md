@@ -1,4 +1,4 @@
-<h1 align="center">FAQ according, one of the mentor challenge</h1>
+<h1 align="center">FAQ according Mentor Challenge</h1>
 
 <div align="center">
 
