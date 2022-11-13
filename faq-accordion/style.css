@@ -8,6 +8,7 @@
 }
 
 body {
+  -webkit-tap-highlight-color: transparent;
   background-image: linear-gradient(180deg, #b068e9, #6463e7);
   height: 100vh;
   justify-content: center;
